@@ -98,7 +98,7 @@
 
                     <section data-markdown>
                         <script type="text/template">
-                        ### Here, in Freiburg
+                        <img src="images/freiburg_galaxy_team.png" alt="freiburg_galaxy_team" width="40%"/>
 
                         Since 2013
 
@@ -143,14 +143,219 @@
 
                         </script>
                     </section>
+                </section>
+
+                <section>
+                    <section data-markdown>
+                        <script type="text/template">
+                        <img src="images/RebootButton.jpg" alt="RebootButton" width="40%"/>
+
+                        At the Galaxy Community Conference 2016, <br/>
+                        the Galaxy Training Network decides for <br/>
+                        an **unification of the Galaxy Training Material**
+                    </script>
+                    </section>
 
                     <section data-markdown>
                         <script type="text/template">
-                        <img src="images/gcc2016-logo.png" alt="gcc2016-logo" width="20%"/>
+                        ### Unification?
+
+                        - One central GitHub repository for the material
+                        - Similar materials for each topic
                     </script>
-                </section>
+                    </section>
                 </section>
 
+                <section>
+                    <section data-markdown data-background-image="images/prototyping.jpg">
+                        # Prototyping
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### One temporary GitHub repository
+
+                        <img src="images/github_repo_screenshot.png" alt="github_repo_screenshot" width="60%"/>
+
+                        <small>
+                        [bgruening/training-material](https://github.com/bgruening/training-material)
+                        </small>
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### Lots of reflexion and try
+
+                        - Which topics?
+                        - What material?
+                        - How to make it easy for material addition and update?
+                        - How to make it as welcoming as possible?
+                        - How to make it a wide community effort?
+                        - ...
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### Which topics?
+
+                        - General introduction
+                        - HTS
+                            - Quality control, Mapping
+                            - RNA Seq, ChIP Seq, Exome Seq, MethylC Seq, Genome Annotation, RAD Seq, ...
+                        - Admin/Dev
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### What material ?
+
+                        For each topic
+
+                        - Introduction slides
+                        - Tutorials
+                            - Text with Hands On
+                            - Associated slides
+                            - Tour
+                            - Datasets on Zenodo
+                        - A Docker container
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### How to make it easy for material addition and update?
+
+                        Similar repository structure for all topics
+
+                        ```sh
+                        ├── docker
+                        │   ├── Dockerfile
+                        │   ├── README.md
+                        │   ├── tools.yaml
+                        ├── images
+                        ├── README.md
+                        ├── slides
+                        ├── tutorials
+                        ```
+
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### How to make it easy for material addition and update?
+
+                        Development of templates for every material
+
+                        <img src="images/tutorial_header.png" alt="tutorial_header" width="80%"/>
+
+                        <small>Template for tutorial header</small>
+
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### How to make it as welcoming as possible?
+
+                        A webpage
+
+                        <img src="images/landing_page.png" alt="landing_page" width="60%"/>
+
+                        <small>
+                        [http://bgruening.github.io/training-material/](http://bgruening.github.io/training-material/)
+                        </small>
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### How to make it a wide community effort?
+
+                        Great effort on the [`CONTRIBUTING.md`](https://github.com/bgruening/training-material/blob/master/CONTRIBUTING.md)
+
+                        <img src="images/contributing.png" alt="contributing" width="50%"/>
+
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### How to make it a wide community effort?
+
+                        Great effort on the [Issues](https://github.com/bgruening/training-material/issues) and [Pull Requests](https://github.com/bgruening/training-material/pulls)
+
+                        <img src="images/issues_screenshot.png" alt="issues_screenshot" width="70%"/>
+
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### How to make it a wide community effort?
+
+                        Open [Gitter chat](https://gitter.im/Galaxy-Training-Network/Lobby)
+
+                        <img src="images/gitter_screenshot.png" alt="gitter_screenshot" width="70%"/>
+
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### How to make it a wide community effort?
+
+                        <i class="fa fa-birthday-cake" aria-hidden="true"></i> A Two days Contribution Fest
+
+                        - 28 participants
+                        - 44 commits, 24 PR opened and 15 PR merged, 3 Issues closed and 5 Issues created
+                        - 1 new topic, 2 new tutorials, 2 new introduction slide decks, 7 reformatted tutorials
+                        - 350 messages on the Gitter channel, few calls
+                        - Numerous interesting and controversial discussions
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        <img src="images/prototype-review-refine.jpg" alt="prototype-review-refine" width="40%"/>
+
+                        - Prototyping and discussing the templating system
+                        - Filling and formatting of tutorial and introduction slide
+                        - Adding new topics
+
+                        </script>
+                    </section>
+                </section>
+
+                <section>
+                    <section data-background-image="images/future.jpeg">
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### After the proof of concept of the prototype
+
+                        <img src="images/gtn_rebooted.png" alt="gtn_rebooted" width="50%"/>
+
+                        - Moving to Galaxy GitHub organization
+                        - Writing of a small manuscript about this effort
+                        </script>
+                    </section>
+                </section>
+
+                <section data-markdown>
+                    <script type="text/template">
+                        ## Thank You.
+
+                        Questions?
+
+                        <img src="images/gtn_rebooted_progress.png" alt="gtn_rebooted_progress" width="70%"/>
+
+                    </script>
+                </section>
             </div>
 
         </div>
@@ -169,7 +374,7 @@
                     { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
                     { src: 'reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
                     { src: 'reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-                    { src: 'js/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                    { src: 'reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
                     { src: 'reveal.js/plugin/math/math.js', async: true },
                     { src: 'reveal.js/plugin/notes/notes.js', async: true },
                 ]
