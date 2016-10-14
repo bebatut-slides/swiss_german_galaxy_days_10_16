@@ -24,4 +24,6 @@ text(to_label + .75, par("usr")[3] - .25,  labels = labels, srt = 45, pos = 2, x
 dev.off()
 
 # Extract cities and number of workshop per cities
-cities = paste(training_stats$city, training_stats$country, sep=", ")
+cities = as.factor(paste(training_stats$city, training_stats$country, sep=", "))
+city_stats = summary(cities, maxsum = length(levels(cities)))
+write.table(city_stats, "data/training_city_stats", sep="\t", col.names = F)
