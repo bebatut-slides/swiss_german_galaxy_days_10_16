@@ -1,0 +1,2850 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    139.2394179,
+                    36.5748441
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "2",
+                "country": "\u65e5\u672c",
+                "countryCode": "JP"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.4458824,
+                    39.7837304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "country": "United States of America",
+                "countryCode": "US"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.897975505618,
+                    52.3745403
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "3",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Noord-Holland"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "MRA"
+                    }
+                },
+                "country": "Nederland",
+                "countryCode": "NL",
+                "locality": "Amsterdam",
+                "subLocality": "Centrum"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.5515587,
+                    47.4739884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Pays-de-la-Loire"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Angers"
+                    }
+                },
+                "country": "France",
+                "countryCode": "FR",
+                "locality": "Angers",
+                "postalCode": "49000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.1771353,
+                    41.3825596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "CAT"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "BCN"
+                    }
+                },
+                "country": "Espa\u00f1a",
+                "countryCode": "ES",
+                "locality": "Barcelona"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.325551,
+                    60.3943532
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Hordaland"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Bergen"
+                    }
+                },
+                "country": "Norge",
+                "countryCode": "NO"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.2728638,
+                    37.8708393
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "California"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Alameda County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Berkeley"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4514512,
+                    46.9482713
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "2",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Bern - Berne"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Verwaltungskreis Bern-Mittelland"
+                    }
+                },
+                "country": "Schweiz, Suisse, Svizzera, Svizra",
+                "countryCode": "CH",
+                "locality": "Bern"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.8024325,
+                    33.5206824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Alabama"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Jefferson County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Birmingham"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    72.8308337,
+                    18.9321862
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Maharashtra"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Greater Bombay"
+                    }
+                },
+                "country": "India",
+                "countryCode": "IN",
+                "locality": "Mumbai"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.5800363,
+                    44.841225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Nouvelle-Aquitaine"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Bordeaux"
+                    }
+                },
+                "country": "France",
+                "countryCode": "FR",
+                "locality": "Bordeaux",
+                "postalCode": "33000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0595677,
+                    42.3604823
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "6",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Massachusetts"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Suffolk County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Boston"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.0234991,
+                    -27.4689681
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "9",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "QLD"
+                    }
+                },
+                "country": "Australia",
+                "countryCode": "AU",
+                "locality": "Brisbane"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.1128513,
+                    39.2169525
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "3",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "SAR"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "CA"
+                    }
+                },
+                "country": "Italia",
+                "countryCode": "IT",
+                "locality": "Casteddu/Cagliari",
+                "postalCode": "09121-09131, 09134"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.0625613,
+                    51.0530588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Alberta"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Calgary"
+                    }
+                },
+                "country": "Canada",
+                "countryCode": "CA",
+                "locality": "Calgary"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.124862,
+                    52.2033051
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "3",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "England"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Cambridgeshire"
+                    }
+                },
+                "country": "UK",
+                "countryCode": "GB",
+                "locality": "Cambridge"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1056156,
+                    42.3750997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Massachusetts"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Middlesex County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Cambridge"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.128894,
+                    -35.2819366
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Australian Capital Territory"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Canberra Central"
+                    }
+                },
+                "country": "Australia",
+                "countryCode": "AU",
+                "locality": "Canberra"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.417396,
+                    -33.9289916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Western Cape"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "City of Cape Town"
+                    }
+                },
+                "country": "South Africa",
+                "countryCode": "ZA",
+                "locality": "Cape Town"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.1213704,
+                    -33.9707903
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "5",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "NSW"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Georges River"
+                    }
+                },
+                "country": "Australia",
+                "countryCode": "AU",
+                "locality": "Sydney",
+                "subLocality": "Carlton"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -65.952646749724,
+                    18.36402775
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Puerto Rico"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Carolina"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.474285,
+                    48.9747357
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Jihoz\u00e1pad"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "okres \u010cesk\u00e9 Bud\u011bjovice"
+                    }
+                },
+                "country": "\u010cesko",
+                "countryCode": "CZ",
+                "locality": "\u010cesk\u00e9 Bud\u011bjovice"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.3151514,
+                    48.8111744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "2",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Jihoz\u00e1pad"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "okres \u010cesk\u00fd Krumlov"
+                    }
+                },
+                "country": "\u010cesko",
+                "countryCode": "CZ",
+                "locality": "\u010cesk\u00fd Krumlov"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.8431267,
+                    35.2270869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "2",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "North Carolina"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Mecklenburg County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Charlotte"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.6244211,
+                    41.8755546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "2",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Illinois"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Cook County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Chicago"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.1711503,
+                    41.0304863
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Indiana"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Allen County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Fort Wayne",
+                "postalCode": "46809",
+                "streetName": "Corvalis Avenue"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.2803756,
+                    -6.8142736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Dar es Salaam"
+                    }
+                },
+                "country": "Tanzania",
+                "countryCode": "TZ",
+                "locality": "Dar es Salaam"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.7445834,
+                    38.545379
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "14",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "California"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Yolo County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Davis"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.8986189,
+                    35.9940329
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "North Carolina"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Durham County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Durham"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.1914971,
+                    55.9495628
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Scotland"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "City of Edinburgh"
+                    }
+                },
+                "country": "UK",
+                "countryCode": "GB",
+                "locality": "City of Edinburgh"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -43.582413123786,
+                    -23.0010264
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "RJ"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Microrregi\u00e3o Rio de Janeiro"
+                    }
+                },
+                "country": "Brasil",
+                "countryCode": "BR",
+                "locality": "Rio de Janeiro",
+                "subLocality": "Guaratiba"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.0668084,
+                    40.5508527
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Colorado"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Larimer County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Fort Collins"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.1433785,
+                    26.1223084
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Florida"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Broward County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Fort Lauderdale"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    7.8494005,
+                    47.9960901
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "6",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Baden-W\u00fcrttemberg"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Freiburg"
+                    }
+                },
+                "country": "Deutschland",
+                "countryCode": "DE",
+                "locality": "Freiburg"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.1137365,
+                    32.3293809
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Georgia"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.134529,
+                    48.7018823
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "\u00cele-de-France"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Palaiseau"
+                    }
+                },
+                "country": "France",
+                "countryCode": "FR",
+                "locality": "Gif-sur-Yvette",
+                "postalCode": "91190"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.2435816,
+                    55.856656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "5",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Scotland"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Glasgow City"
+                    }
+                },
+                "country": "UK",
+                "countryCode": "GB",
+                "locality": "Glasgow City"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.694724,
+                    49.4093582
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Baden-W\u00fcrttemberg"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Heidelberg"
+                    }
+                },
+                "country": "Deutschland",
+                "countryCode": "DE",
+                "locality": "Heidelberg"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6506,
+                    40.2854881
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "3",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Pennsylvania"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Dauphin County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Hershey"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.1792608,
+                    52.0848693
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "3",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "England"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Cambridgeshire"
+                    }
+                },
+                "country": "UK",
+                "countryCode": "GB"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4747305,
+                    17.3616227
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Telangana"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Medak"
+                    }
+                },
+                "country": "India",
+                "countryCode": "IN",
+                "locality": "Hyderabad"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.5299105,
+                    41.6612561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "2",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Iowa"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Iowa City"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.1678072,
+                    48.7674622
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "6",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "\u00cele-de-France"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Versailles"
+                    }
+                },
+                "country": "France",
+                "countryCode": "FR",
+                "locality": "Jouy-en-Josas",
+                "postalCode": "78350"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.5821871,
+                    38.27312
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Kansas"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.011342,
+                    -27.4494262
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "QLD"
+                    }
+                },
+                "country": "Australia",
+                "countryCode": "AU",
+                "locality": "Brisbane",
+                "subLocality": "Kelvin Grove"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.5518631,
+                    47.2996846
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Pays-de-la-Loire"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Nantes"
+                    }
+                },
+                "country": "France",
+                "countryCode": "FR",
+                "locality": "La Chapelle-sur-Erdre",
+                "postalCode": "44240"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.2742085,
+                    32.8472711
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "California"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "San Diego County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "San Diego",
+                "subLocality": "La Jolla"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.4811088666204,
+                    52.1518157
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "5",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Zuid-Holland"
+                    }
+                },
+                "country": "Nederland",
+                "countryCode": "NL",
+                "locality": "Leiden",
+                "subLocality": "Leiden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.6941827809892,
+                    50.88121295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "3",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Vlaanderen"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Leuven"
+                    }
+                },
+                "country": "Belgi\u00eb - Belgique - Belgien",
+                "countryCode": "BE",
+                "locality": "Leuven",
+                "postalCode": "3000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.0706414,
+                    50.6305089
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Hauts-de-France"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Lille"
+                    }
+                },
+                "country": "France",
+                "countryCode": "FR",
+                "locality": "Lille",
+                "postalCode": "59000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1276473,
+                    51.5073219
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "England"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "London"
+                    }
+                },
+                "country": "UK",
+                "countryCode": "GB",
+                "locality": "London"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.2439408,
+                    34.0543942
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "California"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Los Angeles County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "LA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.6115916232256,
+                    52.10038555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Gelderland"
+                    }
+                },
+                "country": "Nederland",
+                "countryCode": "NL",
+                "subLocality": "Lunteren"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.8320114,
+                    45.7578137
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "7",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Auvergne-Rh\u00f4ne-Alpes"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Lyon"
+                    }
+                },
+                "country": "France",
+                "countryCode": "FR",
+                "locality": "Lyon"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.2441008,
+                    53.4791301
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "2",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "England"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Greater Manchester"
+                    }
+                },
+                "country": "UK",
+                "countryCode": "GB",
+                "locality": "Manchester"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.694896696987,
+                    25.9356875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Florida"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Collier County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Marco Island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9382068,
+                    39.5162234
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Maryland"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.9631608,
+                    -37.8142175
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "5",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Victoria"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "City of Melbourne"
+                    }
+                },
+                "country": "Australia",
+                "countryCode": "AU",
+                "locality": "Melbourne",
+                "postalCode": "3000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.1904984,
+                    45.4667971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "LOM"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "MI"
+                    }
+                },
+                "country": "Italia",
+                "countryCode": "IT",
+                "locality": "Milano"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.2654691,
+                    44.9772995
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Minnesota"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Hennepin County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Minneapolis"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.8767337,
+                    43.6112422
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "4",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Occitanie"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Montpellier"
+                    }
+                },
+                "country": "France",
+                "countryCode": "FR",
+                "locality": "Montpellier",
+                "postalCode": "34000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.6114885,
+                    45.4971225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Qu\u00e9bec"
+                    }
+                },
+                "country": "Canada",
+                "countryCode": "CA",
+                "locality": "Montr\u00e9al"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.5753822,
+                    48.1371079
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Bayern"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "M\u00fcnchen"
+                    }
+                },
+                "country": "Deutschland",
+                "countryCode": "DE",
+                "locality": "M\u00fcnchen"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.5541361,
+                    47.2186371
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Pays-de-la-Loire"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Nantes"
+                    }
+                },
+                "country": "France",
+                "countryCode": "FR",
+                "locality": "Nantes",
+                "postalCode": "44000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.0474942,
+                    -27.5483749
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "QLD"
+                    }
+                },
+                "country": "Australia",
+                "countryCode": "AU",
+                "subLocality": "Nathan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    115.8057167,
+                    -31.9799208
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Western Australia"
+                    }
+                },
+                "country": "Australia",
+                "countryCode": "AU",
+                "locality": "Perth",
+                "subLocality": "Nedlands"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    77.2159562,
+                    28.6138967
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Delhi"
+                    }
+                },
+                "country": "India",
+                "countryCode": "IN",
+                "locality": "New Delhi"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9865811,
+                    40.7305991
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "12",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "New York"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "NYC"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.7812534,
+                    -32.927288
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "NSW"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Newcastle"
+                    }
+                },
+                "country": "Australia",
+                "countryCode": "AU",
+                "subLocality": "Newcastle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.8385196119892,
+                    51.84260195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Gelderland"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Stadsregio Arnhem Nijmegen"
+                    }
+                },
+                "country": "Nederland",
+                "countryCode": "NL",
+                "locality": "Nijmegen",
+                "subLocality": "Nijmegen"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.29227,
+                    52.628606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "3",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "England"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Norfolk"
+                    }
+                },
+                "country": "UK",
+                "countryCode": "GB",
+                "locality": "Norwich"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.2713002824073,
+                    38.7124971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "\u00c1rea Metropolitana de Lisboa"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Oeiras"
+                    }
+                },
+                "country": "Portugal",
+                "countryCode": "PT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.7391112,
+                    59.9132694
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "4",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Oslo"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Oslo"
+                    }
+                },
+                "country": "Norge",
+                "countryCode": "NO",
+                "locality": "Oslo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.5403029,
+                    33.8246269
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "California"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Riverside County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Palm Springs"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.1634471,
+                    37.442156
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "2",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "California"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Santa Clara County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Palo Alto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3514992,
+                    48.8566101
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "5",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "\u00cele-de-France"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Paris"
+                    }
+                },
+                "country": "France",
+                "countryCode": "FR",
+                "locality": "Paris"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.3677407,
+                    37.1924594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Virginia"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Petersburg"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Petersburg"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.990086,
+                    40.4416941
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Pennsylvania"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Allegheny County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "PGH"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.18707,
+                    -25.7451737
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "2",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Gauteng"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "City of Tshwane Metropolitan Municipality"
+                    }
+                },
+                "country": "South Africa",
+                "countryCode": "ZA",
+                "locality": "Pretoria"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.001646,
+                    39.007433
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "SAR"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "CA"
+                    }
+                },
+                "country": "Italia",
+                "countryCode": "IT",
+                "locality": "Pula",
+                "postalCode": "09010"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.4588889,
+                    -21.9182855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "QLD"
+                    }
+                },
+                "country": "Australia",
+                "countryCode": "AU"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.6800197,
+                    48.1113387
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "9",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Bretagne"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Rennes"
+                    }
+                },
+                "country": "France",
+                "countryCode": "FR",
+                "locality": "Rennes",
+                "postalCode": "35000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.1051846,
+                    56.9493977
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Vidzeme"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "R\u012bga"
+                    }
+                },
+                "country": "Latvija",
+                "countryCode": "LV",
+                "locality": "R\u012bga"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -43.2093726,
+                    -22.9110136
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "RJ"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Microrregi\u00e3o Rio de Janeiro"
+                    }
+                },
+                "country": "Brasil",
+                "countryCode": "BR",
+                "locality": "Rio de Janeiro"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.3961622,
+                    33.9533546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "2",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "California"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Riverside County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Riverside"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.0757074,
+                    20.621933
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Quintana Roo"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Solidaridad"
+                    }
+                },
+                "country": "M\u00e9xico",
+                "countryCode": "MX",
+                "locality": "Playa del Carmen",
+                "postalCode": "777717",
+                "streetName": "5a Avenida"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.615214,
+                    43.1572851
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "New York"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Monroe County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Rochester"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.9829237,
+                    48.7256492
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "7",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Bretagne"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Morlaix"
+                    }
+                },
+                "country": "France",
+                "countryCode": "FR",
+                "locality": "Roscoff",
+                "postalCode": "29680"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.4886232692583,
+                    51.92779805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "2",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Zuid-Holland"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "MRDH"
+                    }
+                },
+                "country": "Nederland",
+                "countryCode": "NL",
+                "locality": "Rotterdam",
+                "subLocality": "Rotterdam"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.4943995,
+                    38.5815719
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "California"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Sacramento County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Sacramento"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.0079711,
+                    -27.4976036
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "10",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "QLD"
+                    }
+                },
+                "country": "Australia",
+                "countryCode": "AU",
+                "locality": "Brisbane",
+                "subLocality": "St Lucia"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.1627713,
+                    32.7174209
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "California"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "San Diego County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "San Diego"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4192362,
+                    37.7792808
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "California"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "SF"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "SF"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.3330572,
+                    37.496904
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "California"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "San Mateo County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.0260569,
+                    36.9735903
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "California"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Santa Cruz County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Santa Cruz"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -46.6333823,
+                    -23.5506506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "SP"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Microrregi\u00e3o de S\u00e3o Paulo"
+                    }
+                },
+                "country": "Brasil",
+                "countryCode": "BR",
+                "locality": "SP"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.3300623,
+                    47.6038321
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "2",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Washington"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "King County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Seattle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.8876809,
+                    45.4029964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "2",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Qu\u00e9bec"
+                    }
+                },
+                "country": "Canada",
+                "countryCode": "CA",
+                "locality": "Sherbrooke"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.852038,
+                    1.2904527
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "2": {
+                        "code": null,
+                        "name": "Central Singapore Community Development Council"
+                    }
+                },
+                "country": "Singapore",
+                "countryCode": "SG",
+                "locality": "Singapore"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.7412119,
+                    27.7253065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Florida"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Pinellas County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "St. Pete Beach"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.8691667,
+                    -33.9344443
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Western Cape"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Cape Winelands District Municipality"
+                    }
+                },
+                "country": "South Africa",
+                "countryCode": "ZA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.210047,
+                    -33.8679573
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "4",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "NSW"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Sydney"
+                    }
+                },
+                "country": "Australia",
+                "countryCode": "AU",
+                "locality": "Sydney",
+                "subLocality": "Sydney"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.9094473,
+                    33.4144139
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Arizona"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Maricopa County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Tempe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.29477452739,
+                    34.2255804
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "2",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "\u6771\u4eac\u90fd"
+                    }
+                },
+                "country": "\u65e5\u672c",
+                "countryCode": "JP"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.3849007,
+                    43.6529206
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "5",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Ontario"
+                    }
+                },
+                "country": "Canada",
+                "countryCode": "CA",
+                "locality": "Toronto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.4442469,
+                    43.6044622
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "5",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Occitanie"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Toulouse"
+                    }
+                },
+                "country": "France",
+                "countryCode": "FR",
+                "locality": "Toulouse"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.64112,
+                    59.8594126
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Uppsala l\u00e4n"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Uppsala"
+                    }
+                },
+                "country": "Sverige",
+                "countryCode": "SE",
+                "locality": "Uppsala"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.2073009,
+                    40.1117174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Illinois"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Champaign County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Urbana"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.668298061828,
+                    51.9685817
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Gelderland"
+                    }
+                },
+                "country": "Nederland",
+                "countryCode": "NL",
+                "subLocality": "Wageningen"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0366455,
+                    38.8949549
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "6",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "District of Columbia"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "Washington"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.9080654,
+                    40.4258686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "1",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "Indiana"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Tippecanoe County"
+                    }
+                },
+                "country": "United States of America",
+                "countryCode": "US",
+                "locality": "West Lafayette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.9879402,
+                    -33.8083812
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "2",
+                "adminLevels": {
+                    "1": {
+                        "code": null,
+                        "name": "NSW"
+                    },
+                    "2": {
+                        "code": null,
+                        "name": "Parramatta"
+                    }
+                },
+                "country": "Australia",
+                "countryCode": "AU",
+                "locality": "Sydney",
+                "postalCode": "2145",
+                "streetName": "Railway Parade",
+                "subLocality": "Westmead"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.9770298,
+                    45.8131545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "# workshops held": "2",
+                "adminLevels": {
+                    "2": {
+                        "code": null,
+                        "name": "Grad Zagreb"
+                    }
+                },
+                "country": "Hrvatska",
+                "countryCode": "HR",
+                "locality": "Zagreb"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
